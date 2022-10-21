@@ -1,0 +1,418 @@
+,message,category
+0,Will there be recordings of lectures/seminars?,0
+1,Must be! Let's lay out,0
+2,"Even better, I threw the link to this chat into the channel for everyone to seehttps://t.me/nlp_chat",0
+3,We have a chat: https://t.me/nlp_chat,0
+4,Hi Nlps. Condolences to the rest,0
+5,Why are you condoling?,0
+6,Maybe because they didn’t sign up for such a cool course?),0
+7,Can you please link to the lecture?,0
+8,"did you get a link to the course page on github? here there will be lectures and all the materials, I have not had time to post the slides, unfortunately",0
+9,Is it possible to stick a link to the channel in the description of this chat?,0
+10,Can you duplicate this link here or in the channel?,0
+11,Channel: https://t.me/+FzhGUmqIe9VkOGFiChat: https://t.me/nlp_chat Site with materials: https://karpovilia.github.io/NLP2022/readme/,0
+12,Let's collect everything now,0
+13,"I mean in the info group so that in the future I don’t jump on the fasteners, if possible)",0
+14,I will become an advanced cart user this way,0
+15,It remains to stick a link to the chat in the info channel and there will be a mutual import,0
+16,And when will the distribution of the seminar groups?,0
+17,oh thank you,0
+18,now and will,0
+19,"tell me, please, which group will go slower?",0
+20,what does slower mean? 🤨,0
+21,Haven't posted yet?,0
+22,more details about everything,0
+23,Will quizzes and homework be the same at the same time?,0
+24,and what day and at what time will the seminars in the online group?,0
+25,"like at the same time, as far as I understand",0
+26,Can you please tell me if the seminars are recorded and when will the recordings be posted?,0
+27,"By the way, it would be nice if the notes of the previous lecture were posted before the next one in order to prepare for quizzes",0
+28,"well, and semov too",0
+29,We are working on it!,0
+30,"Ilya has all the records, so you can ping him",0
+31,Will there be quizzes during seminars or lectures?,0
+32,"No, in my spare time",0
+33,"In my opinion, tickets are given for several days",0
+34,"hmm, where do you get his tag from?",0
+35,"And what actually affects the distribution by semes? If you come to another teacher, he won’t kick you out",0
+36,It turns out that only for checking copies / dz?,0
+37,Then it is strictly more profitable to be in a weak group so that your work looks better in contrast.,0
+38,We hope for your responsibility and respect for classmates that you will not do this,0
+39,Is an offline lecture planned today or is it only in zoom?,0
+40,Can I have an actual zoom link?,0
+41,do we have a playlist with records?,0
+42,will there be a quiz today?,0
+43,Where will the seminar be?,0
+44,and you got kicked too,0
+45,A little later will,0
+46,seminar in the lecture room will be?,0
+47,will be in the lecture room.,0
+48,"Let's go to the lecture hall, they say a lot to people",0
+49,Are you talking about an online or offline workshop?,0
+50,"he will be one for all from Ilya, they said",0
+51,"No, it will be online on Sat.",0
+52,at what time.....,0
+53,"So, is there no quiz today?",0
+54,"okay, the main thing is that the record was before the quiz",0
+55,Will the face-to-face seminar be broadcast on zoom now?),0
+56,"yes, it will be online on saturday",0
+57,wow is that always the case?,0
+58,"no, only this saturday, it will be the same on thursday",0
+59,"so, and if I can’t get to the Saturday seminar, then it’s not very scary, because the quizzes are several days long, aren’t they?",0
+60,Will there be a recording?,0
+61,Will the first quiz be issued after the first seminar?,0
+62,It's fun to find out about this after midnight and without posting to the channel or pinning :D,0
+63,"In the meantime, I posted the records of the first two weeks in the repository: https://karpovilia.github.io/NLP2022/readme/",0
+64,Is there already a second quiz or will it not be given every lecture?,0
+65,Where was the first one?,0
+66,Selecting a group for seminars,0
+67,The second will be tomorrow,0
+68,And how long to expect it?,0
+69,"Can't say if it's morning or evening, but I'll let you know",0
+70,And how long will it last?,0
+71,"Until Thursday, if it's difficult, then it can be longer",0
+72,"10-15 questions, part theoretical, part based on seminar materials, somewhere to calculate something by hand, somewhere to write 3-5 lines of code",0
+73,How do you want a quiz 😊,0
+74,Soon everything will be!,0
+75,Is the deadline in the afternoon?,0
+76,"""Deadline: 11:59 am September 23""",0
+77,"""morning"" missed, sorry",0
+78,"you need to 1) find a reference to the colab notebook in the task, 2) find a reference to the Wikipedia_TF_IDF_Dataset in the notebook, 3) use these IDF weights",0
+79,"Will there be a lecture tomorrow? (Is it just like they said that they would only be online, or always in person?)",0
+80,Online in theory,0
+81,"Full-time, Ilya will tell",0
+82,Online I'll get back to you in the second module :),0
+83,Will there be a broadcast with a recording?,0
+84,It seems to be some kind of trick :),0
+85,1) you need to specify the quantity,0
+86,"2) it is necessary to isolate the original word, for example, ^cat$",0
+87,"And if you indicated not the quantity, but the n-grams themselves, can you send the form again? Then there will be a last attempt to be checked?",0
+88,Do I understand correctly that the face-to-face seminars of the group that goes faster are not recorded?,0
+89,Records of which group are laid out in the repository?,0
+90,Recordings from both groups will be posted.,0
+91,Good morning! Technical question: use a comma or a period in answers with real numbers? 😂,0
+92,"Why is there a hash table? In other methods, don't they put words in it?",0
+93,And how quickly to receive an index?,0
+94,To find a vector,0
+95,Word2vec does not allow collisions,0
+96,FastText allows,0
+97,The difference in this,0
+98,"Collisions are about the third paragraph of the slide, but I still don’t understand why the hash table is highlighted here",0
+99,"Just directly critical for the test, and therefore a stupor. The phrase is the most ambiguous",0
+100,The phrase is clear: is learning accelerating?,0
+101,I'll give you a hint: other answers are more important,0
+102,So how does this affect learning?,0
+103,For convergence?,0
+104,It seems like nothing,0
+105,"No convergence, maybe for a while",0
+106,"What is strange is most likely the wrong answer, which was difficult to come up with",0
+107,"Couldn't get past, sorry",0
+108,"Good afternoon, but can you tell me what is meant by the usual arithmetic rounding?",0
+109,Doesn't 0.864... > 0.5 round up to 0.87 ?,0
+110,when is the deadline now?,0
+111,"Yes, but it's a bit counterintuitive...",0
+112,"Yes, but the condition says > 0.5 is rounded up...",0
+113,"If you read verbatim, Artem is right",0
+114,"oh my, it's true",0
+115,"about that is, 0.5 is impossible to get",0
+116,"Right now, it should be usually arithmetic rounding",0
+117,Deadline Saturday noon,0
+118,"In other tasks with a similar formulation, is it also arithmetic?",0
+119,"Do not worry, if anything, I look through all the answers with my eyes, if something was rounded in the wrong place or a comma instead of a dot - I will take into account",0
+120,"Although, of course, the correct answers make my life easier)))",0
+121,Just in case: there is still the old wording in the question about the cosine distance,0
+122,Will we have a wiki page?,0
+123,We have a github page,0
+124,"I didn't read the group, is it about quiz 2?",0
+125,Where is the lecture today? In R404 some other pair,0
+126,Scheduled R401,0
+127,@karpovilia is reading,0
+128,Can I have a link to the broadcast please? Last time it seems to be irrelevant in the schedule,0
+129,https://us05web.zoom.us/j/87818842133?pwd=MlNJSGdUR1Nid2pYdHFtR0E4YmdrUT09 ?,0
+130,was the deadline pushed back by a day?,0
+131,Will anyone come to the seminar with me?),0
+132,you come in if that),0
+133,Our lecture just ended.,0
+134,We haven't finished a couple yet.,0
+135,Let's go now,0
+136,It seems that direct = break into morphemes,0
+137,join the question,0
+138,And we indirectly,0
+139,And it also depends on n,0
+140,GPT-3 also got a subpoena?,0
+141,Is this normal?….,0
+142,"(sent without sound, do not hit)",0
+143,And the quiz deadline is 24.09 11:59?,0
+144,"Yes, by the way, I would like to sort out my mistakes later",0
+145,Hello! Will there be recordings of the last lecture and seminar on YouTube?,0
+146,Good afternoon! When do lectures go online?,0
+147,Good afternoon! Has quiz 3 been released yet?,0
+148,@karpovilia help us please,0
+149,"Colleagues, hello! Materials of 3 weeks here: https://github.com/karpovilia/NLP2022/commit/2b4fe36aa69c861ec4064479bd65a49f8d9b3230",0
+150,What is the link for the broadcast?,0
+151,Will there be a record?,0
+152,"A similar question, we seem to have followed the link from the schedule and there are three of us here so far and nothing happens",0
+153,"Dear students, good afternoon! I'm a little late in traffic, we'll start in 10 minutes.",0
+154,I connect,0
+155,What is Temperature in NLP?🐭 :: Luke Salamone's Bloghttps://lukesalamone.github.io/posts/what-is-temperature/,0
+156,"Good afternoon, is the quiz expected this week?",0
+157,Will the recordings of the last lecture and seminar be posted soon? I missed it unfortunately,0
+158,what will be the assessment?,0
+159,Can you please tell me again with what weights the entire course is assessed for quizzes and dz? I can't find it on github,0
+160,oh I didn't notice that,0
+161,It is detailed here: https://codalab.lisn.upsaclay.fr/competitions/7863#learn_the_details-terms_and_conditions,0
+162,Is the 23:55 deadline a bug or a feature? I can imagine a situation in which someone tries to pass at 23:57 but fails,0
+163,"Feature: so that there is no confusion about which day 00:00 belongs to. We will definitely remind you of this on the last day. At 23:56 it's already impossible, yes :)",0
+164,Do you have a recording from last week?,0
+165,And if so where,0
+166,joining the question,0
+167,🐌🐌🐌 https://karpovilia.github.io/NLP2022/readme/,0
+168,Is the link old?,0
+169,Will there be a record?,0
+170,Anyone willing to join online? 🙂,0
+171,"Don't forget to congratulate Irina on her protection! And now you need to turn to Irina Doctor Irina, yes!!!",0
+172,"(Joke, of course, about the appeal)) but this chat has not yet congratulated, so it’s necessary))",0
+173,and your royal highness will do?,0
+174,Your doctoral majesty is quite,0
+175,Congratulations 🔥🍾🥂,0
+176,"Dr. Irina, congratulations",0
+177,"Congratulations, now you can get the recipe and learn at the same time",0
+178,🧑‍⚕ Congratulations!!,0
+179,"Fire, congratulations, Doctor Irina!",0
+180,Incredibly cool 😍 congratulations!!!,0
+181,wow congratulations! Thanks a lot!,0
+182,"Plus, you can use the SemEval competition as a diploma (link).",0
+183,"1) let's do +2 weeks from now at the latest, but it's in your interest to be faster, I won't take many people on one topic",0
+184,"3) yes, yes, it’s true, since diplomas should still be somehow different, and my imagination is limited (as you can see, I couldn’t generate many topics)",0
+185,How many students usually take diplomas from you?,0
+186,"well, to understand the order of competition, so to speak",0
+187,"it used to be 30+, but this year I will take MUCH LESS",0
+188,"Is there a third quiz at the end? And then they promised at the lecture, but I can’t find it (((",0
+189,"Post the recording of the last lesson, if possible, please)",0
+190,posted my group,0
+191,And how many homework and quizzes are planned?,0
+192,And what is the formula for the final grade for homework and quizzes? I can't find something,0
+193,Found only this,0
+194,Will there be automatics by the way?,0
+195,"promised, but I don't remember the condition",0
+196,Accumulation more than 8,0
+197,"Three homework, quizzes - how much will it be",0
+198,"Will there be some kind of normalization or can we not hope for it?) For example, for the first quiz, the best score is 8.57, that is, 12 out of 14 ...",0
+199,Where can I see ratings?,0
+200,"I'm not very good, can you send me the link?",0
+201,"Fix flip through, in the table with the distribution into groups",0
+202,Will we have a quiz this week?,0
+203,"Ohh I would like to do homework after the deadline, of course",0
+204,Will it be possible to find out the correct answers to the questions?,0
+205,And in what audience will the couple be?,0
+206,same link?,0
+207,where to get the link?,0
+208,by this link,0
+209,How long is the break?,0
+210,Nobody: A guy in a hotel lobby during a Transformers workshop.,0
+211,He obviously knows something.,0
+212,is it true that the material of the first three weeks is enough to complete the homework for a good score?,0
+213,and what number of lectures viewed is recommended for homework?,0
+214,Homework for the first module.,0
+215,"And tell me, please, who started, what lectures / seminars are most important for homework?",0
+216,ok i've been to almost everything except for one week so don't feel,0
+217,It's just incredible how three times in a row they asked the same question)))),0
+218,"not toxic if anything, just roflan",0
+219,there is simply no iron answer (,0
+220,"I died from this too, and not from the fact that people don’t go if that",0
+221,"well, in general, there seems to be a homework on the classification of texts, so apparently everything is up to the classification)))",0
+222,Usually five seconds later. Sometimes it took much longer. The name doesn't matter,0
+223,"Got it, thanks) Well, 5 seconds have already passed, unfortunately😁",0
+224,"After some time, the package should reach, I also had this",0
+225,"Oh, I added a description and went, unexpectedly) Thank you!)",0
+226,"Is a self-made model like CNN enough to break through the baseline, or do you need to get some kind of transformer?",0
+227,and pretrained can be used?,0
+228,"I thought homework should be done without transformers, maybe it was written above that dz for the first 3 lectures, and transformers are not included in them",0
+229,"No, it says",0
+230,Another question: it seems that they promised to postpone the deadline at the lecture. Is it still valid?),0
+231,"But in general, the neurons at the third seminar were",0
+232,"yeah, they just wrote it",0
+233,"well, there were definitely no transformers, there were neurons",0
+234,"And without neurons you can’t get the desired quality, right?",0
+235,"It would be very helpful, given the deadlines from other courses on the same day",0
+236,And there wasn't even time to sit down.,0
+237,baseline for 4 points did it start or pass?),0
+238,"started = started writing code, right?",0
+239,so far I have only repeated the theory and reviewed all the records,0
+240,like at the 3rd seminar,0
+241,"As if a universal approach is to teach something simple, look at the quality and then think further)",0
+242,I spent 10 attempts yesterday) 0)) 00)),0
+243,"I was able to move from 0.81 to the range [0.69, 0.82]",0
+244,"But what if, like at the seminar, the fix also does not work?",0
+245,"Check the version of the torch text, there are very unexpected versions of libraries in the colab",0
+246,the fact of the matter is that in the latest version of the torchtext they generally deleted it seems data,0
+247,it's not in the manual,0
+248,I'll try to download the old version,0
+249,!pip install torchtext==0.9 at the beginning of the notebook,0
+250,But this here from the seminar is considered pre-training?,0
+251,"in general, in general, the question is: is it possible to pre-trained embeddings?",0
+252,"Will the deadline be moved? At the lecture, the lecturer promised about this like👉🏻👈🏻",0
+253,Will the deadline be extended?,0
+254,"++, otherwise death is on the sound ...",0
+255,we just get 3 deadlines in one day,0
+256,Unfortunately no. It's all right there.,0
+257,How about before the lecture? Until Thursday?,0
+258,"we don’t have time at all, we have 2 more dz in DL there, one of which has been studying in the Datasphere for a long time",0
+259,"yes, at least a couple of days would be super saving",0
+260,It will be very unfair to those who are now trying to do everything. Is not it so?,0
+261,"But if they were at the lecture, then they knew that the deadline would be moved",0
+262,We can arrange a poll and get their opinion,0
+263,"They will understand, from the experience of the previous three years they will understand",0
+264,(if they exist at all),0
+265,at the lecture we were promised to reschedule,0
+266,"you just promised us, planting a germ of hope, and now everything is coming out (",0
+267,"Well, this is not fair to those who were at the lecture. because they promised there, I think many based on this calculated their plans 🥲",0
+268,+We have too many deadlines on the same day,0
+269,"and also about this, what is ultimately considered an unfilled report?",0
+270,Understood thanks!,0
+271,Is the use of different built-in sets like stopwords in nltk also prohibited?,0
+272,"in theory, this is not something that is pre-trained models",0
+273,"and you can do the same manually by simply copying this set, but through nltk the code is somehow more beautiful",0
+274,"By the way, do I understand correctly that the code of models / processing and everything except the .csv file with test answers is included in the concept of “report”?",0
+275,what is the second task?,0
+276,You can use NLTK,0
+277,Isn't it just competition?,0
+278,"open the report form, there is a second task",0
+279,The form has a bonus,0
+280,what a surprise,0
+281,Understood thanks,0
+282,"Do I understand correctly that the problem here is only in the use of the vectors argument, which is treated as pre-trained?",0
+283,And just .build_vocab() based on an arbitrary corpus - allowed,0
+284,"You can try to do this) There is a lot of pain in the alteration. The format of the task does not exclude this approach, you are right.",0
+285,"Understood, thanks. That is, there are no sanctions for essentially plagiarizing code from various sites, partial or complete is not provided?)",0
+286,The fact that you described it is not penalized,0
+287,"I'm personally interested in the same question, so I'll subscribe",0
+288,"but, by the way, it doesn't work without vectors)",0
+289,"Yeah, the question was more about similar methods when we build embeddings for ourselves from scratch on some kind of body",0
+290,"It can be done if it works and if it works. But using a hint is much easier and, most likely, more effective.",0
+291,The principle is described above),0
+292,Where can I find the evaluation criteria?,0
+293,"Can you please move the deadline, otherwise the hard workers die from the sound",0
+294,already answered above),0
+295,links to the repositories of lectures 1 and 2 do not work ((https://karpovilia.github.io/NLP2022/readme/,0
+296,"If I am fetching data from Russian channels, can I use pre-trained translation models?",0
+297,"well, no, you can't",0
+298,99% of tokenizers are also pretrained,0
+299,"you can, of course, train BertTokenizer from scratch",0
+300,but even Bert's simple fine-tuning is not even 3-4 hours on powerful video cameras,0
+301,"Well, first of all, it's not true. Depends on how the new bert can be taken small initially",0
+302,"well, if we are talking about distiller or the like, then yes",0
+303,so I would like to hear the opinion of the teacher,0
+304,It's much simpler if 'bitcoin' in text: category = 1,0
+305,Are these things even legal?,0
+306,"called ""rule approach"" aka rule based classification",0
+307,"if the condition does not explicitly prohibit, then ...",0
+308,Katya D will tell you better about the rest,0
+309,I understand correctly that word2vec cannot be pretrained?,0
+310,"Because cryptotexts and women's forums, as I understand it, are not offered to be parsed, only TG chats",0
+311,can try to generate the data?,0
+312,the usual homework suddenly took on a large scale ...,0
+313,And manually some part of the target can be marked? 👉👈,0
+314,"I promise that I will sit myself, I won’t strain tolokers",0
+315,I did not see such prohibitions in the assignment condition),0
+316,Likewise. Everything is in the assignment. Any - no. Untrained - yes.,0
+317,"Yes, if you really want to have time and mark everything)",0
+318,why not tolokers,0
+319,so why not),0
+320,"Well, the scheme is clear, break the test into X people, everyone will mark their part",0
+321,I'm ready to participate,0
+322,is fasttext a pre-trained model?,0
+323,can it be used?,0
+324,"Is this the architecture? If the weights are random, then no, which means you can use it. Otherwise it is impossible",0
+325,"I don’t know, to be honest, I just took it from the seminar",0
+326,like we didn't explain it in detail,0
+327,"+ to the question, is it possible to just take fasttext, as it was on the seed?",0
+328,"By the way, not a single person has beaten a strict baseline yet ...",0
+329,It seems to me that the author is hinting that you can download the desired chat from the telegram and get the desired result :),0
+330,"well, why put a baseline that is impossible to beat (",0
+331,to have something to strive for,0
+332,yu know inflation,0
+333,then understandable,0
+334,writing to rebates from crowdsourcing,0
+335,and for a box of beer we mark the test,0
+336,Are the guys from crowdsourcing considered a pre-trained model?🤔,0
+337,"if not, then I would throw myself on the box",0
+338,3 years studied,0
+339,https://github.com/karpovilia/NLP2022 This link opens everything well,0
+340,Codalab crashed?,0
+341,"alive, if",0
+342,"Trap, the last package goes to the competition",0
+343,and not with the maximum score,0
+344,is there any way to increase the maximum number of parcels per day?,0
+345,how many are there now?,0
+346,"but how to select best_submission in soreve not the last package, but the one that I want?",0
+347,For some reason the checkbox doesn't change...,0
+348,"If anything, then we have access to all parcels. We will consider the best result.",0
+349,Where can I find notebooks from the 1st and 2nd seminars? Git links are broken,0
+350,1 and 2 sem do not open,0
+351,according to families,0
+352,They hid it so they hid it,0
+353,"sorry, tidying up the repository =(",0
+354,Has anyone had this error while submitting?,0
+355,looks like it needs to be archived,0
+356,send as requested zip file with csv inside,0
+357,try to unzip it and see what's inside,0
+358,but in general the error sounds clear),0
+359,it is already a zip file and inside it is,0
+360,did we end up with a deadline?,0
+361,OAOAOAOAOAOAOAA 😮😮😮😮😮😮😮,0
+362,let's go to the bar,0
+363,"A student, a crypto-investor and a beauty blogger walk into a bar...",0
+364,Wouldn't the rating go down for this?,0
+365,and if the whole mark))?,0
+366,"I think this is considered hardcoded and will be banned, based on the messages above)",0
+367,"mark everything, and then learn from everything",0
+368,and make predictions,0
+369,And I still don't understand,0
+370,"You can not submit a report, that is, not even show the code 🧐",0
+371,so in the report a link to the collab and give access),0
+372,"yes it is possible, yes",0
+373,but somehow unfairly),0
+374,"Your score won't go down, but your skills won't improve either. If you see the point in investing time and effort in such an approach, please.",0
+375,it is essentially the same as finding more data from the internet,0
+376,still a valid question,0
+377,"Accepted, I will",0
+378,it would be great to have a statement if it is not yet (?),0
+379,Is it true that the baselines were obtained without additional data?,0
+380,drop the group for teaching in English))),0
+381,It seems to me that Russian chatik was simply translated there,0
+382,lol i'm not talking about the specific one,0
+383,I seem to have seen messages about the fact that you can choose the best package. and the best package will be public or private?,0
+384,it would be cool if they could increase the limit of parcels per day! it seems that there is nothing useful in the fact that it is limited to 15th,0
+385,"Yes, for example, it is possible.",0
+386,"We will see all the results and choose the best one for the Final phase, even if it was not one for the Development phase.",0
+387,and the best in private?,0
+388,I apologize for the question: are Lectures 4 and 5 prerequisites for Lecture 6?,0
+389,Has anyone managed to download data from the telegram?,0
+390,I do not receive a confirmation code in my account,0
+391,does not ask me,0
+392,What code? I exported with one button in the application from the computer,0
+393,I do not have that,0
+394,And can you throw a file with data from this chat?,0
+395,Do you have an application? Or web version?,0
+396,"in my application, norms are exported",0
+397,Do you have wine?,0
+398,"didn’t come either, asked another person to come in with a different number, it came",0
+399,Do you have the app from the appstore?,0
+400,Or did you download from the internet?,0
+401,it seems so yes,0
+402,just through the telegram desktop setup file set,0
+403,So he's in Russian),0
+404,I have a windows application,0
+405,Didn't you understand the trick?,0
+406,"Data in the dataset from Russian chats, simply translated into English",0
+407,There are only Russian names,0
+408,So that's where Vladimir is from,0
+409,"In short, if you download the application via the Internet, then it works",0
+410,json and html here,0
+411,"And how to translate something, interesting🤔",0
+412,"And then I tried to find data in English in the cart, I learned from them, and it got worse",0
+413,what is soo?,0
+414,It is possible through Api Yandex translator,0
+415,just throw it in the translator),0
+416,"Well, this is a pretrain)) 0)",0
